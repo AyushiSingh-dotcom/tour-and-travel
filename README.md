@@ -3,6 +3,15 @@ Hello Coders!!👩‍⚖️
 
 I am Ayushi singh, an aspiring Web developer🤖. Here is the project on front-end Web Development...
 
+## Authors
+
+- **Ayushi Singh**
+ 
+   - **aayushisingh1204@gmail.com  **
+
+- **Deeksha Agarwal**
+ 
+   - **deeksha2005agarwal@gmail.com**
 
 # Travel website...✈
 
